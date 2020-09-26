@@ -1,0 +1,27 @@
+body{
+  background-color: pink;
+}
+h1{
+  font-size: 4rem;
+  font-style: italic;
+  text-align: center;
+  margin: 30px;
+}
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+img{
+  width: 80%;
+}
